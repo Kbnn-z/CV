@@ -1,8 +1,9 @@
 # CV
 CV de Rayan - Etudiant Lycée Turgot en BTS informatique Cybersécurité
 
-##Compétences
+## Compétences
 J'ai des compétences en SISR
+hr
 ### systeme
 - Window
 - Linux
