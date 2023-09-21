@@ -30,5 +30,7 @@ J'ai des compétences en solutions d'infrastructures, systèmes et réseaux
 - Autodidacte : J’ai développé une certaine aisance à travailler de manière autodidacte dans le but d’enrichir ma culture personnelle.
 - Polyvalent : Je sais adapter mon travail en fonction du type de la demande. 
 
-# Voici mon LinkedIn : [https://rayanblbc.alwaysdata.net/](https://www.linkedin.com/in/rayan-belabaci-64934b221/)
-# Voici mon Portfolio sur mon site : https://rayanblbc.alwaysdata.net/
+# Voici mon LinkedIn : 
+[https://rayanblbc.alwaysdata.net/](https://www.linkedin.com/in/rayan-belabaci-64934b221/)
+# Voici mon Portfolio sur mon site : 
+https://rayanblbc.alwaysdata.net/
