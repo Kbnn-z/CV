@@ -1,8 +1,8 @@
-![image](https://github.com/Kbnn-z/CV/assets/115071427/d0f11295-d567-46b2-8d09-4a648be0819e)# CV
+# CV
 CV de Rayan - Etudiant Lycée Turgot en BTS informatique Cybersécurité
-![image](https://github.com/Kbnn-z/CV/assets/115071427/9d00ba83-7c74-4000-9b25-fab92be1b444 width="48")
 
 
+![image](https://github.com/Kbnn-z/CV/assets/115071427/559b5892-42fe-437f-bb5d-86e7b96459d0) [align="left" height="48" width="48"]
 
 ## Compétences
 J'ai des compétences en solutions d'infrastructures, systèmes et réseaux
