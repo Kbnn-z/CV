@@ -1,6 +1,8 @@
 # CV
 CV de Rayan - Etudiant Lycée Turgot en BTS informatique Cybersécurité
 
+![Logo](https://github.com/Kbnn-z/CV/assets/115071427/2287ac02-329c-4861-9fb8-116ad8cbc2da)
+
 <hr>
 
 ## Formation : 
@@ -16,40 +18,71 @@ CV de Rayan - Etudiant Lycée Turgot en BTS informatique Cybersécurité
 ### Systeme
 - Window
 - Linux
+- MD5
 
 ### Vitualisation
 - Virtual Box
+- AWS : Dockers
 
 ### Réseaux
 - Cisco Packet Tracer
 - Cisco Networking Essentiels
 - Routage
 - DNS
+- SSH
 
 ### Cybersécurité 
 - Kali
-- Rootme
 - Ubuntu
+- Rootme
   
 ### Developeent
 - HTML : Des bases solides 
 - CSS : Des bases solides 
 - PHP : Niveau débutant
-- javaSript : Niveau débutant
+- JavaSript : Niveau débutant
+- C++ Arduino : Niveau débutant
 - MySQL : Niveau débutant
 - SQL : Niveau débutant
 - GitBash : Niveau débutant
 
+### Système embarqués 
+- Arduino 
+
 ### Travail d'équipe 
 - Gestion de projet
 - Trello
+- Discord
 
 ### Outils
+
+#### Dev: 
 - Visual Studio Code
 - Sublime text
 - PhpMyadmin
+
+#### Virtualisation : 
+- VM Ware
+- VirtualBox
+
+#### Modélisation :
+- Jimot
+
+#### Base de donnée
+- Acces 
+- StarULM
+- Laragon
+
+Gestion de projet : 
 - Trello
-- VM ware VirtualBox
+Création :
+- Adobe
+
+### Adobe 
+- Illustrator
+- PremierPro
+- Photoshop
+- InDesign
   
 <hr>
 
