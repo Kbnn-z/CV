@@ -44,6 +44,7 @@ CV de Rayan - Etudiant Lycée Turgot en BTS informatique Cybersécurité
 - C++ Arduino : Niveau débutant
 - MySQL : Niveau débutant
 - SQL : Niveau débutant
+- GitHub : Niveau intermédiaire
 - GitBash : Niveau débutant
 
 ### Système embarqués 
@@ -73,9 +74,11 @@ CV de Rayan - Etudiant Lycée Turgot en BTS informatique Cybersécurité
 - StarULM
 - Laragon
 
-Gestion de projet : 
+#### Gestion de projet :
+- GitHub
 - Trello
-Création :
+
+#### Création :
 - Adobe
 
 ### Adobe 
