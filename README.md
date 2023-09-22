@@ -35,6 +35,7 @@ J'ai des compétences en solutions d'infrastructures, systèmes et réseaux
 <hr>
 
 # Voici mon LinkedIn : 
-[https://rayanblbc.alwaysdata.net/](https://www.linkedin.com/in/rayan-belabaci-64934b221/)
+https://www.linkedin.com/in/rayan-belabaci-64934b221/
+
 # Voici mon Portfolio sur mon site : 
 https://rayanblbc.alwaysdata.net/
