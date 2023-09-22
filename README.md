@@ -20,7 +20,7 @@ J'ai des compétences en solutions d'infrastructures, systèmes et réseaux
   
 ### dev
 - HTML : Des bases solides 
-- CSS : 
+- CSS : Des bases solides 
 - PHP : Niveau débutant 
 - MySQL : Niveau débutant
 - GitHub : Niveau intermédiaire
