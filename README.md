@@ -1,5 +1,7 @@
 # CV
 CV de Rayan - Etudiant Lycée Turgot en BTS informatique Cybersécurité
+![Logo](https://github.com/Kbnn-z/CV/assets/115071427/342403ae-80dd-4441-b46e-02b064201eab)
+
 
 <hr>
 
