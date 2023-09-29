@@ -26,56 +26,60 @@ Ubuntu
 Rootme
 
 ### Developement
-HTML : Des bases solides
-CSS : Des bases solides
-PHP : Niveau débutant
-JavaSript : Niveau débutant
-C++ Arduino : Niveau débutant
-MySQL : Niveau débutant
-SQL : Niveau débutant
-GitHub : Niveau intermédiaire
-GitBash : Niveau débutant
+- HTML : Des bases solides
+- CSS : Des bases solides
+- PHP : Niveau débutant
+- JavaSript : Niveau débutant
+- C++ Arduino : Niveau débutant
+- MySQL : Niveau débutant
+- SQL : Niveau débutant
+- GitHub : Niveau intermédiaire
+- GitBash : Niveau débutant
 
 ### Travail d'équipe :
 Gestion de projet
-Trello
-Discord
+- Trello
+- Discord
 
 ### Système embarqués
-Arduino
+- Arduino
 
 ### Adobe
-Illustrator
-PremierPro
-Photoshop
-InDesign
+- Illustrator
+- PremierPro
+- Photoshop
+- InDesign
 
 ### Outils
 ##### Dev:
-Visual Studio Code
-Sublime text
-PhpMyadmin
+- Visual Studio Code
+- Sublime text
+- PhpMyadmin
+
 ##### Virtualisation :
-VM Ware
-VirtualBox
+- VM Ware
+- VirtualBox
+
 ##### Modélisation :
-Jimot
+- Jimot
+
 ##### Base de donnée : 
-Acces
-StarULM
-Laragon
+- Acces
+- StarULM
+- Laragon
 
 ##### Gestion de projet :
-GitHub
-Trello
+- GitHub
+- Trello
+
 ##### Création :
-Adobe
+- Adobe
 
 ## à propos de moi
-Leader : j'ai eu l'occassion de mener plusieurs fois un groupe dans des projets différents.
-Entreprenant : Si un tiers me communique une idée de projet et que cette dernière est en cohérence avec mes principes, je me hâte à la tâche.
-Autodidacte : J’ai développé une certaine aisance à travailler de manière autodidacte dans le but d’enrichir ma culture personnelle.
-Polyvalent : Je sais adapter mon travail en fonction du type de la demande.
+- Leader : j'ai eu l'occassion de mener plusieurs fois un groupe dans des projets différents.
+- Entreprenant : Si un tiers me communique une idée de projet et que cette dernière est en cohérence avec mes principes, je me hâte à la tâche.
+- Autodidacte : J’ai développé une certaine aisance à travailler de manière autodidacte dans le but d’enrichir ma culture personnelle.
+- Polyvalent : Je sais adapter mon travail en fonction du type de la demande.
 
 # Voici mon LinkedIn : [linkedin](https://www.linkedin.com/in/rayan-belabaci-64934b221/)
 # Voici mon Portfolio sur mon site : [alwaysdata](https://rayanblbc.alwaysdata.net/)
