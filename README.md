@@ -5,25 +5,25 @@ CV de Rayan - Etudiant Lycée Turgot en BTS informatique Cybersécurité
 
 ## Compétences :
 ### Système
-Window
-Linux
-MD5
+- Window
+- Linux
+- MD5
 
 ### Vitualisation
-Virtual Box
-AWS : Dockers
+- Virtual Box
+- AWS : Dockers
 
 ### Réseaux
-Cisco Packet Tracer
-Cisco Networking Essentiels
-Routage
-DNS
-SSH
+- Cisco Packet Tracer
+- Cisco Networking Essentiels
+- Routage
+- DNS
+- SSH
 
 ### Cybersécurité
-Kali
-Ubuntu
-Rootme
+- Kali
+- Ubuntu
+- Rootme
 
 ### Developement
 - HTML : Des bases solides
