@@ -35,6 +35,7 @@ Rootme
 - SQL : Niveau débutant
 - GitHub : Niveau intermédiaire
 - GitBash : Niveau débutant
+- WampServeur : Niveau Débutant
 
 ### Travail d'équipe :
 Gestion de projet
