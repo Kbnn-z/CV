@@ -52,7 +52,13 @@ Gestion de projet
 - Photoshop
 - InDesign
 
+### Architecture Matérielle
+- Composant PC
+- Vérifier
+- Upgrade
+
 ### Outils
+
 ##### Dev:
 - Visual Studio Code
 - Sublime text
