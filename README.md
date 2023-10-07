@@ -57,6 +57,10 @@ Gestion de projet
 - Vérifier
 - Upgrade
 
+### Autres 
+- Proteus
+- Putty
+
 ### Outils
 
 ##### Dev:
