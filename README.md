@@ -21,7 +21,7 @@ CV de Rayan - Etudiant Lycée Turgot en BTS informatique Cybersécurité
 - SSH
 
 ### Cybersécurité
-- Kali
+- Kali (nmap, metasploit, wireshark, holehe, hashcat,...)
 - Ubuntu
 - Rootme
 
