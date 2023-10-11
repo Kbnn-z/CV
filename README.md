@@ -94,5 +94,3 @@ Gestion de projet
 - Polyvalent : Je sais adapter mon travail en fonction du type de la demande.
 
 # Voici mon LinkedIn : [linkedin](https://www.linkedin.com/in/rayan-belabaci-64934b221/)
-# Voici mon Portfolio sur mon site : [alwaysdata](https://rayanblbc.alwaysdata.net/)
-
