@@ -24,6 +24,7 @@ CV de Rayan - Etudiant Lycée Turgot en BTS informatique Cybersécurité
 - Ubuntu
 - Rootme
 - Droit informatique
+- RGPD
 
 ### Developement
 - HTML : Des bases solides
