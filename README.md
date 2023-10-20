@@ -72,10 +72,10 @@ Gestion de projet
 
 ##### Modélisation :
 - Jimot
+- StarULM
 
 ##### Base de donnée : 
 - Acces
-- StarULM
 - Laragon
 
 ##### Gestion de projet :
