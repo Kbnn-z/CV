@@ -1,4 +1,5 @@
 # 👋Salut, c'est @Kbnnz (Rayan)
+<hr></hr>
 
 Etudiant Lycée Turgot en BTS informatique en option SISR
 
@@ -96,4 +97,4 @@ Gestion de projet
 # Pour me contacter : 
 - 📩 par mail : kbnnz@proton.me
 - par LinkedIn : [linkedin](https://www.linkedin.com/in/rayannn/)
-- 💻 vous pouvez aussi faire un tour sur mon site : [wix](https://kbnnz6.wixsite.com/kbnnz)
+- 💻 vous pouvez aussi faire un tour sur mon site : [Kbnnz Site](https://kbnnz6.wixsite.com/kbnnz)
