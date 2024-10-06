@@ -95,4 +95,5 @@ Gestion de projet
 
 # Pour me contacter : 
 - 📩 par mail : kbnnz@proton.me
-- ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py,react,angular,sass) par LinkedIn : [linkedin](https://www.linkedin.com/in/rayannn/)
+- par LinkedIn : [linkedin](https://www.linkedin.com/in/rayannn/)
+- 💻 vous pouvez aussi faire un tour sur mon site : [wix](https://kbnnz6.wixsite.com/kbnnz)
