@@ -10,8 +10,7 @@ Etudiant Lycée Turgot en BTS informatique en option SISR
 
 ### Vitualisation
 - Virtual Box
-- [![My Skills](https://skillicons.dev/icons?i=proxmox)](https://skillicons.dev)
-
+- Porxmox
 - [![My Skills](https://skillicons.dev/icons?i=vmware,aws,docker)](https://skillicons.dev)
 
 ### Réseaux
@@ -26,68 +25,11 @@ Etudiant Lycée Turgot en BTS informatique en option SISR
 - Kali (nmap, metasploit, wireshark, holehe, hashcat,...)
 - Ubuntu
 - Rootme
-- Droit informatique
-- RGPD
-
-### Developement
-- HTML : Des bases solides
-- CSS : Des bases solides
-- PHP : Niveau débutant
-- JavaSript : Niveau débutant
-- C++ Arduino : Niveau débutant
-- MySQL : Niveau débutant
-- SQL : Niveau débutant
-- GitHub : Niveau intermédiaire
-- GitBash : Niveau débutant
-- WampServeur : Niveau Débutant
-- Bootstrap : Niveau Débutant
-
-### Travail d'équipe :
-Gestion de projet
-- Trello
-- Discord
-
-### Système embarqués
-- Arduino
-- Proteuse
-
-### Création
-- Adobe Illustrator
-- Adobe PremierPro
-- Adobe Photoshop
-- Adobe InDesign
-
-### Architecture Matérielle
-- Composant PC
-- Vérifier
-- Upgrade
-
-### Outils
-
-##### Dev:
-- Visual Studio Code
-- Sublime text
-- PhpMyadmin
-
-##### Virtualisation :
-- VM Ware
-- VirtualBox
-
-##### Modélisation :
-- Jimot
-- StarULM
-- Cisco Packet Tracer
-
-##### Base de donnée : 
-- Acces
-- Laragon
+- Droit informatique/RGPD
 
 ##### Gestion de projet :
 - GitHub
 - Trello
-
-##### Création :
-- Adobe
 
 ## à propos de moi
 - Leader : j'ai eu l'occassion de mener plusieurs fois un groupe dans des projets différents.
