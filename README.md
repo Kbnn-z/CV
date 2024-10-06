@@ -1,4 +1,4 @@
-# Salut 👋 c'est @Kbnnz (Rayan)
+# 👋Salut, c'est @Kbnnz (Rayan)
 
 Etudiant Lycée Turgot en BTS informatique en option SISR
 
@@ -93,4 +93,6 @@ Gestion de projet
 - Autodidacte : J’ai développé une certaine aisance à travailler de manière autodidacte dans le but d’enrichir ma culture personnelle.
 - Polyvalent : Je sais adapter mon travail en fonction du type de la demande.
 
-# Voici mon LinkedIn : [linkedin](https://www.linkedin.com/in/rayan-belabaci-64934b221/)
+# Pour me contacter : 
+- 📩 par mail : kbnnz@proton.me
+- ![image](https://github.com/user-attachments/assets/21f489c6-57e5-4064-a1a4-9b284a611c49) par LinkedIn : [linkedin](https://www.linkedin.com/in/rayannn/)
