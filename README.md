@@ -10,7 +10,7 @@ Etudiant Lycée Turgot en BTS informatique en option SISR
 
 ### Vitualisation
 - Virtual Box
-- Proxmox
+- [![My Skills](https://skillicons.dev/icons?i=proxmox)](https://skillicons.dev)
 
 - [![My Skills](https://skillicons.dev/icons?i=vmware,aws,docker)](https://skillicons.dev)
 
