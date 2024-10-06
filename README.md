@@ -6,6 +6,7 @@ Etudiant Lycée Turgot en BTS informatique en option SISR
 
 ## Compétences :
 ### Système
+[![My Skills](https://skillicons.dev/icons?i=powershell)]
 - Window (powershell)
 - Linux (bash)
 - MD5
