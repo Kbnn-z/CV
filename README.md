@@ -1,5 +1,6 @@
-# CV
-CV de Rayan - Etudiant Lycée Turgot en BTS informatique Cybersécurité
+# @Kbnnz
+
+Voici une petite présentation de moi, Rayan - Etudiant Lycée Turgot en BTS informatique en option SISR
 
 ## Compétences :
 ### Système
