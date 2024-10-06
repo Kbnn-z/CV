@@ -9,7 +9,7 @@ Etudiant Lycée Turgot en BTS informatique en option SISR
 [![My Skills](https://skillicons.dev/icons?i=powershell,bash)](https://skillicons.dev)
 
 ### Vitualisation
-[![My Skills](https://skillicons.dev/icons?i=vitrualbox,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vmware,aws,docker)](https://skillicons.dev)
 - Virtual Box 
 - AWS : Docker
 
