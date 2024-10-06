@@ -1,6 +1,6 @@
-# @Kbnnz (Rayan)
+# Salut 👋 c'est @Kbnnz (Rayan)
 
-Salut 👋,  Etudiant Lycée Turgot en BTS informatique en option SISR
+Etudiant Lycée Turgot en BTS informatique en option SISR
 
 ## Compétences :
 ### Système
