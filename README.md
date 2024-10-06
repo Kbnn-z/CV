@@ -9,9 +9,9 @@ Etudiant Lycée Turgot en BTS informatique en option SISR
 [![My Skills](https://skillicons.dev/icons?i=powershell,bash)](https://skillicons.dev)
 
 ### Vitualisation
+- Virtual Box
+- Proxmox
 [![My Skills](https://skillicons.dev/icons?i=vmware,aws,docker)](https://skillicons.dev)
-- Virtual Box 
-- AWS : Docker
 
 ### Réseaux
 - Cisco Packet Tracer
